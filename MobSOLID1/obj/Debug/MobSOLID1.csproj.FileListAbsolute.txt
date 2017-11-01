@@ -1,0 +1,14 @@
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\bin\Debug\MobSOLID1.exe.config
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\bin\Debug\MobSOLID1.exe
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\bin\Debug\MobSOLID1.pdb
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1.csprojResolveAssemblyReference.cache
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MainWindow.g.cs
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\App.g.cs
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1_MarkupCompile.cache
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1_MarkupCompile.lref
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MainWindow.baml
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1.g.resources
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1.Properties.Resources.resources
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1.csproj.GenerateResource.Cache
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1.exe
+c:\users\t.chapman\documents\visual studio 2017\Projects\MobSOLID1\MobSOLID1\obj\Debug\MobSOLID1.pdb
